@@ -132,6 +132,9 @@ PORT=5000
 **Vangmayi Karri**
 Computer Science Engineering and Data Science,
 Pragati Engineering College
+**Sheik Rizwana Begum**  
+Computer Science Engineering (Data Science),  
+Pragati Engineering College
 
 ---
 
